@@ -1,1 +1,1 @@
-# BirthdayBirthday
+This project uses C# and a CSV file with over 11,000 random names and DOBs. This program allows you to enter a month and year & the program will search the files for names that have birthdays in the same month and year.

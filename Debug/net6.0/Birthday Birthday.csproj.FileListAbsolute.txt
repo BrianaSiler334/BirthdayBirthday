@@ -1,0 +1,15 @@
+C:\Users\BSiler\source\repos\Birthday Birthday\bin\Debug\net6.0\Birthday Birthday.exe
+C:\Users\BSiler\source\repos\Birthday Birthday\bin\Debug\net6.0\Birthday Birthday.deps.json
+C:\Users\BSiler\source\repos\Birthday Birthday\bin\Debug\net6.0\Birthday Birthday.runtimeconfig.json
+C:\Users\BSiler\source\repos\Birthday Birthday\bin\Debug\net6.0\Birthday Birthday.dll
+C:\Users\BSiler\source\repos\Birthday Birthday\bin\Debug\net6.0\Birthday Birthday.pdb
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.csproj.AssemblyReference.cache
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.AssemblyInfoInputs.cache
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.AssemblyInfo.cs
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.csproj.CoreCompileInputs.cache
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.dll
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\refint\Birthday Birthday.dll
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.pdb
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\Birthday Birthday.genruntimeconfig.cache
+C:\Users\BSiler\source\repos\Birthday Birthday\obj\Debug\net6.0\ref\Birthday Birthday.dll
